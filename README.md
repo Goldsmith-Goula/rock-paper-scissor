@@ -16,7 +16,7 @@ This is a simple Rock, Paper, Scissors game built using HTML, CSS, and JavaScrip
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/rock-paper-scissors.git
+   https://github.com/Goldsmith-Goula/rock-paper-scissor.git
     ```
 
 2. Navigate to the project directory:
